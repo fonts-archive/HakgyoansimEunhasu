@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Hakgyoansim Eunhasu';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEunhasu/HakgyoansimEunhasu.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEunhasu/HakgyoansimEunhasu.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEunhasu/HakgyoansimEunhasu.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimEunhasu/HakgyoansimEunhasu.ttf') format('truetype');
+}
